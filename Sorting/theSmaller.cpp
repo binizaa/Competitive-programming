@@ -1,4 +1,4 @@
-/*https://usaco.org/index.php?page=viewproblem2&cpid=574*/
+/*https://usaco.guide/silver/sorting-custom*/
 
 #include <iostream>
 #include <vector>
