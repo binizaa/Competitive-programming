@@ -1,4 +1,4 @@
-/*https://usaco.guide/silver/sorting-custom*/
+/*https://codeforces.com/problemset/problem/632/C*/
 
 #include <iostream>
 #include <vector>
